@@ -20,5 +20,5 @@ This is a repo to mess around and try stuff.
 ### Images & Video
 
 - Image/Video inside Silhouette - [Tutorial](https://youtu.be/l9Me4mro0iQ) - [Implementation](./Image_Video/Inside_Silhouette/)
-
+- Image hover overlay - [Tutorial](https://youtu.be/wK8sx2vyMJ0) - [Implementation](./Image_Video/hover_overlay/)
 ## JS
