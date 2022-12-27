@@ -17,4 +17,8 @@ This is a repo to mess around and try stuff.
 - Vertical Text - [Tutorial](https://youtu.be/ZHB9a05NUXg) - [Implementation](./Typography/Vertical_Text/)
 - Wrap text around image - [Tutorial](https://youtu.be/uf3ayuzA6ME) - [Implementation](./Typography/Wrap_text_around_image/)
 
+### Images & Video
+
+- Image/Video inside Silhouette - [Tutorial](https://youtu.be/l9Me4mro0iQ) - [Implementation](./Image_Video/Inside_Silhouette/)
+
 ## JS
