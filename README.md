@@ -7,7 +7,11 @@ This is a repo to mess around and try stuff.
 
 ## CSS
 
-- Card Hover with border lighting up - [Tutorial](https://youtu.be/htGfnF1zN4g) - [Implementation](./Hyperplexed_Card_Hover/)
+### Cards
+
+- Hover with border lighting up - [Tutorial](https://youtu.be/htGfnF1zN4g) - [Implementation](./Cards/Hyperplexed_Card_Hover/)
+
+- Responsive Card Hover - [Tutorial](https://youtu.be/MnMxRkX7DvU) - [Implementation](./Cards/Responsive_Card/)
 
 ### Typography
 
